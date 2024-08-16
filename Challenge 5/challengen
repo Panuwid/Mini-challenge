@@ -1,0 +1,19 @@
+Challenge: CSS Selector และ Properties
+จัดรูปแบบองค์ประกอบ HTML ตามคำสั่งต่อไปนี้ โดยห้ามเปลี่ยน HTML ต้องเขียนด้วย CSS เท่านั้น
+
+ให้ element body เป็นพื้นหลังสี #bdc3c7 
+ให้ element h1 มีสี #9b59b6 
+ให้ element h2 ทั้งหมด เป็นสีส้ม 
+ให้ element li ทั้งหมด เป็นสีน้ำเงิน 
+เปลี่ยนพื้นหลังในทุกๆ ย่อหน้าให้เป็นสีเหลือง 
+ให้ inputs ทั้งหมดมีกรอบ (border) สีแดงขนาด 3px. 
+ให้ทุกอย่างใน class ‘Hello’ มีพื้นหลังสีขาว 
+ให้ element ที่มี id = Special มีกรอบ (border) ทึบขนาด 2px. (เลือกค่าสี rgb ของคุณเอง) 
+element p ที่อยู่ภายใน element div ทั้งหมดมี font ขนาด 25px 
+ให้ element input ที่มี type = text มีพื้นหลังสีเทา
+ให้ element p ทุกตัวที่อยู่ภายใน element div ลำดับ ตัวที่ 3 มีพื้นหลังสีชมพู 
+ให้ element ใน div ลำดับที่ 3 เป็น สีขาว และมีขนาดอักษร 20px 
+ทำ element label ทั้งหมดตัวใหญ่ (UPPERCASE) โดยไม่แปลง HTML
+กำหนดตัวอักษรตัวแรกของ element ที่มี id = Special ให้เป็นสีเขียว และมีขนาด 100px 
+ให้ element h1 เปลี่ยนเป็นสีน้ำเงินเมื่อ hover (วางเมาส์ไว้ข้างบน) 
+ให้ element a ที่คุณได้กด จะเป็นสีเทา
